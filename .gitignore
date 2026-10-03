@@ -1,0 +1,26 @@
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.rar
+# data (too large for GitHub)
+data/
+*.csv
+*.rar
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
