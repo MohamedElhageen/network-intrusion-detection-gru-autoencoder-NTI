@@ -86,11 +86,8 @@ pytest -q
 * The threshold is tuned on one day of traffic; in production it would need recalibration as normal behaviour drifts.
 * Windows are built over the global flow stream; per-host or per-connection windows and an attention/Transformer encoder are natural next steps.
 * CICIDS2017 is a lab capture; real networks will need retraining on their own benign traffic.
-
 ## Team
-| Role | Member |
-|---|---|
-| Data & EDA | |
-| Modeling | |
-| Deployment & code quality | |
-| Presentation & coordination | |
+1. Mohamed Elhageen
+2. Seif Eldin Ebied
+3. Mohamed Kotb
+4. Abdelrahman Salah
