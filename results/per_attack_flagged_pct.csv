@@ -1,0 +1,9 @@
+class,isolation_forest,gru_ae,ensemble
+DDoS,99.37,95.4,98.95
+PortScan,97.79,98.66,98.33
+Infiltration,47.22,47.22,44.44
+Web Attack - Brute Force,40.82,8.91,14.88
+Web Attack - XSS,40.14,5.73,11.47
+BENIGN,31.03,16.7,19.22
+Bot,25.58,11.92,14.5
+Web Attack - Sql Injection,25.0,5.0,10.0
