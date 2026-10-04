@@ -1,0 +1,20 @@
+[theme]
+base = "dark"
+primaryColor = "#19C3B1"
+backgroundColor = "#0B1E33"
+secondaryBackgroundColor = "#12294A"
+textColor = "#E8EEF5"
+redColor = "#E5484D"
+greenColor = "#19C3B1"
+orangeColor = "#F2A541"
+blueColor = "#5B8FD0"
+
+[theme.sidebar]
+backgroundColor = "#081627"
+secondaryBackgroundColor = "#12294A"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

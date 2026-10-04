@@ -1,0 +1,13 @@
+# Minimal dependencies for deploying the Streamlit app (Streamlit Community Cloud reads this file
+# because it sits next to the entrypoint). The full development setup is in ../requirements.txt.
+
+# CPU-only PyTorch: much smaller than the default CUDA build, and the app doesn't need a GPU
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
+streamlit>=1.50
+numpy>=2.0
+pandas>=2.2
+# same version that saved models/isolation_forest.joblib, so the forest loads without warnings
+scikit-learn==1.9.1
+joblib>=1.3
