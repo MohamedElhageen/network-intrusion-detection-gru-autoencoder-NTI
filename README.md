@@ -91,3 +91,5 @@ pytest -q
 2. Seif Eldin Ebied
 3. Mohamed Kotb
 4. Abdelrahman Salah
+## Our Hosted Streamlit app
+https://network-intrusion-detection-gru-autoencoder-nti-up6n3upt7ssiz3.streamlit.app/inside_model
